@@ -1,0 +1,92 @@
+
+Inserted WP Form 5
+Imported Customizer Settings {"astra-settings":{"blog-single-post-structure":["single-image","single-title-meta"],"blog-single-width":"default","blog-single-max-width":1200,"blog-single-meta":["comments","category","author"],"blog-post-structure":["image","title-meta"],"blog-width":"default","blog-max-width":1200,"blog-post-content":"excerpt","blog-meta":["comments","category","author"],"text-color":"#404e5c","link-color":"#71979c","theme-color":"#71979c","link-h-color":"#3a3a3a","footer-bg-obj":{"background-color":"#71979c","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-color":"#ffffff","footer-link-color":"#ffffff","footer-link-h-color":"#ffffff","footer-adv-bg-obj":{"background-color":"","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"footer-adv-text-color":"","footer-adv-link-color":"","footer-adv-link-h-color":"","footer-adv-wgt-title-color":"","button-color":"#ffffff","button-h-color":"#ffffff","button-bg-color":"#71979c","button-bg-h-color":"#4f8389","theme-button-padding":{"desktop":{"top":"14","right":"40","bottom":"14","left":"40"},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"button-radius":50,"theme-button-border-group-border-size":{"top":"","right":"","bottom":"","left":""},"footer-sml-layout":"footer-sml-layout-2","footer-sml-section-1":"custom","footer-sml-section-1-credit":"Copyright \u00a9 [current_year] [site_title]","footer-sml-section-2":"custom","footer-sml-section-2-credit":"Powered by [site_title]","footer-sml-dist-equal-align":true,"footer-sml-divider":0,"footer-sml-divider-color":"","footer-layout-width":"content","ast-header-retina-logo":"https:\/\/websitedemos.net\/windows-and-doors-02\/wp-content\/uploads\/sites\/348\/2019\/06\/logo@2x-free-img.png","ast-header-logo-width":"","ast-header-responsive-logo-width":{"desktop":"150","tablet":"124","mobile":""},"display-site-title":false,"display-site-tagline":0,"logo-title-inline":false,"disable-primary-nav":false,"header-layouts":"header-main-layout-1","header-main-rt-section":"button","header-display-outside-menu":false,"header-main-rt-section-html":"<button>Contact Us<\/button>","header-main-rt-section-button-text":"Appointment","header-main-rt-section-button-link":"#","header-main-rt-section-button-link-option":{"url":"#","new_tab":false,"link_rel":""},"header-main-rt-section-button-style":"theme-button","header-main-rt-section-button-text-color":"","header-main-rt-section-button-back-color":"","header-main-rt-section-button-text-h-color":"","header-main-rt-section-button-back-h-color":"","header-main-rt-section-button-padding":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""}},"header-main-rt-section-button-border-size":{"top":"","right":"","bottom":"","left":""},"header-main-sep":0,"header-main-sep-color":"","header-main-layout-width":"content","primary-submenu-border":{"top":"2","right":"0","bottom":"0","left":"0"},"primary-submenu-item-border":false,"primary-submenu-b-color":"","primary-submenu-item-b-color":"","header-main-menu-label":"","header-main-menu-align":"inline","header-main-submenu-container-animation":"fade","mobile-header-breakpoint":"","mobile-header-logo":"","mobile-header-logo-width":"","site-layout":"ast-full-width-layout","site-content-width":1200,"site-layout-outside-bg-obj":{"background-color":"#f2f3f5","background-image":"","background-repeat":"repeat","background-position":"center center","background-size":"auto","background-attachment":"scroll"},"site-content-layout":"boxed-container","single-page-content-layout":"default","single-post-content-layout":"default","archive-post-content-layout":"default","body-font-family":"'Barlow', sans-serif","body-font-variant":"","body-font-weight":"400","font-size-body":{"desktop":"17","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"body-line-height":"","para-margin-bottom":"","body-text-transform":"","headings-font-family":"'Barlow', sans-serif","headings-font-weight":"700","headings-text-transform":"","headings-line-height":"1.4","font-size-site-title":{"desktop":35,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-site-tagline":{"desktop":15,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-entry-title":{"desktop":30,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-archive-summary-title":{"desktop":40,"tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-page-title":{"desktop":"30","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h1":{"desktop":"80","tablet":"65","mobile":"48","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h2":{"desktop":"42","tablet":"42","mobile":"35","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h3":{"desktop":"32","tablet":"32","mobile":"26","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h4":{"desktop":"25","tablet":"25","mobile":"28","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h5":{"desktop":"20","tablet":"20","mobile":"22","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"font-size-h6":{"desktop":"16","tablet":"16","mobile":"16","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"site-sidebar-layout":"no-sidebar","site-sidebar-width":30,"single-page-sidebar-layout":"default","single-post-sidebar-layout":"default","archive-post-sidebar-layout":"default","footer-adv":"disabled","footer-adv-border-width":"","footer-adv-border-color":"#7a7a7a","mobile-header-toggle-btn-style":"fill","hide-custom-menu-mobile":false,"mobile-header-toggle-target":"icon","transparent-header-logo":"https:\/\/websitedemos.net\/windows-and-doors-02\/wp-content\/uploads\/sites\/348\/2019\/06\/logo1-free-img.png","transparent-header-retina-logo":"https:\/\/websitedemos.net\/windows-and-doors-02\/wp-content\/uploads\/sites\/348\/2019\/06\/logo1@2x-free-img.png","different-transparent-logo":true,"different-transparent-retina-logo":true,"transparent-header-logo-width":{"desktop":"","tablet":"","mobile":""},"transparent-header-enable":0,"transparent-header-disable-archive":1,"transparent-header-disable-latest-posts-index":1,"transparent-header-on-devices":"desktop","transparent-header-main-sep":0,"transparent-header-main-sep-color":"","transparent-header-bg-color":"","transparent-header-color-site-title":"","transparent-header-color-h-site-title":"","transparent-menu-bg-color":"","transparent-menu-color":"","transparent-menu-h-color":"","transparent-submenu-bg-color":"","transparent-submenu-color":"","transparent-submenu-h-color":"","transparent-header-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-header-color-h-site-title-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-menu-color-responsive":{"desktop":"rgba(255,255,255,0.76)","tablet":"#404e5c","mobile":""},"transparent-menu-h-color-responsive":{"desktop":"#ffffff","tablet":"#71979c","mobile":""},"transparent-submenu-bg-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-submenu-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-color-responsive":{"desktop":"","tablet":"","mobile":""},"transparent-content-section-link-h-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-font-family":"inherit","breadcrumb-font-weight":"inherit","breadcrumb-text-transform":"","breadcrumb-text-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-active-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-hover-color-responsive":{"desktop":"","tablet":"","mobile":""},"breadcrumb-separator-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-bg-color":{"desktop":"","tablet":"","mobile":""},"breadcrumb-spacing":{"desktop":{"top":"","right":"","bottom":"","left":""},"tablet":{"top":"","right":"","bottom":"","left":""},"mobile":{"top":"","right":"","bottom":"","left":""},"desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"h1-color":"","h2-color":"","h3-color":"","h4-color":"","h5-color":"","h6-color":"","font-family-h1":"inherit","font-weight-h1":"inherit","text-transform-h1":"","line-height-h1":"","font-family-h2":"inherit","font-weight-h2":"inherit","text-transform-h2":"","line-height-h2":"","font-family-h3":"inherit","font-weight-h3":"inherit","text-transform-h3":"","line-height-h3":"1.5","font-weight-button":"inherit","font-family-button":"inherit","font-size-button":{"desktop":"16","tablet":"","mobile":"","desktop-unit":"px","tablet-unit":"px","mobile-unit":"px"},"text-transform-button":"","theme-btn-line-height":"1","theme-btn-letter-spacing":"","header-main-rt-section-search-box-type":"slide-search","below-header-section-2-search-box-type":"slide-search","below-header-section-1-search-box-type":"slide-search","above-header-section-1-search-box-type":"slide-search","above-header-section-2-search-box-type":"slide-search","astra-addon-auto-version":"2.3.2","theme-auto-version":"2.3.1","wc-header-cart-header-colors":false,"shop-quick-view-stick-cart":true,"different-retina-logo":true,"mobile-header-toggle-btn-border-radius":0,"button-v-padding":10,"button-h-padding":35,"_astra_pb_compatibility_completed":true,"is_theme_queue_running":false,"submenu-open-below-header":false,"is_addon_queue_running":true,"heading-base-color":"#404e5c","is_astra_addon_queue_running":false},"custom-css":""}
+Importing from XML https://websitedemos.net/wp-content/uploads/astra-sites/348/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Menu","slug":"menu","term_group":0,"term_taxonomy_id":2,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":3,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 12 - page - Home
+Inserted - Post 13 - page - About
+Inserted - Post 14 - page - Services
+Inserted - Post 15 - page - Portfolio
+Inserted - Post 16 - page - FAQ&#8217;s
+Inserted - Post 17 - page - Contact
+Inserted - Post 23 - nav_menu_item - 
+Inserted - Post 24 - nav_menu_item - FAQ&#8217;s
+Inserted - Post 25 - nav_menu_item - 
+Inserted - Post 26 - nav_menu_item - 
+Inserted - Post 27 - nav_menu_item - 
+Inserted - Post 28 - nav_menu_item - 
+Inserted - Post 31 - attachment - favicon-free-img
+Inserted - Post 98 - attachment - services-03-free-img
+Inserted - Post 154 - attachment - gallery-08-free-img
+Inserted - Post 155 - attachment - gallery-09-free-img
+Inserted - Post 207 - attachment - home-free-img
+Inserted - Post 228 - attachment - logo@2x-free-img
+Inserted - Post 229 - attachment - logo1@2x-free-img
+Inserted - Post 230 - attachment - logo1-free-img
+Inserted - Post 231 - attachment - logo-free-img
+Inserted - Post 242 - attachment - graphic05-free-img
+Inserted - Post 299 - attachment - cropped-favicon-free-img.png
+Inserted - Post 408 - elementor-hf - Footer
+Inserted - Post 420 - attachment - morning-view
+Inserted - Post 422 - attachment - entrance-door
+Inserted - Post 424 - attachment - sliding-door
+Inserted - Post 426 - attachment - repair-service
+Inserted - Post 439 - attachment - morning-window-view
+Inserted - Post 443 - attachment - people-near-window
+Inserted - Post 457 - attachment - window-scene
+Inserted - Post 458 - attachment - installation-fitting
+Inserted - Post 469 - attachment - gallery-eightth-slide
+Inserted - Post 470 - attachment - gallery-seventh-slide
+Inserted - Post 472 - attachment - gallery-fifth-slide
+Inserted - Post 473 - attachment - gallery-fourth-slide
+Inserted - Post 475 - attachment - gallery-second-slide
+Inserted - Post 516 - elementor_library - Default Kit
+Imported - Site Options {"woocommerce_product_attributes":[],"woocommerce_product_cat_list":[],"woocommerce_product_cat":[],"custom_logo":"https:\/\/websitedemos.net\/windows-and-doors-02\/wp-content\/uploads\/sites\/348\/2019\/06\/logo-free-img.png","nav_menu_locations":{"primary":"menu"},"show_on_front":"page","page_on_front":"Home","page_for_posts":"","_fl_builder_enabled_icons":null,"_fl_builder_enabled_modules":null,"_fl_builder_post_types":null,"_fl_builder_color_presets":null,"_fl_builder_services":null,"_fl_builder_settings":null,"_fl_builder_user_access":null,"_fl_builder_enabled_templates":null,"elementor_container_width":"1200","elementor_cpt_support":["post","page"],"elementor_css_print_method":"external","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":null,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker]":{"1":"#404e5c","2":"#71979c","3":"#71979c","4":"#71979c","5":"#f2f3f5","6":"#71979c","7":"#71979c","8":"#ffffff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"10","elementor_stretched_section_container":"","elementor_load_fa4_shim":"yes","woocommerce_shop_page_title":"","woocommerce_cart_page_title":"","woocommerce_checkout_page_title":"","woocommerce_myaccount_page_title":"","woocommerce_edit_address_page_title":"","woocommerce_view_order_page_title":"","woocommerce_change_password_page_title":"","woocommerce_logout_page_title":"","woocommerce_enable_guest_checkout":null,"woocommerce_enable_checkout_login_reminder":null,"woocommerce_enable_signup_and_login_from_checkout":null,"woocommerce_enable_myaccount_registration":null,"woocommerce_registration_generate_username":null,"wpforms_settings":{"disable-css":"2","global-assets":false,"gdpr":false},"learndash_settings_theme_ld30":null,"learndash_settings_courses_themes":null}
+Imported - Widgets {"sidebar-1":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"recent-comments-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"categories-2":{"title":"","count":0,"hierarchical":0,"dropdown":0},"meta-2":{"title":""}}}
+Complete 
+Batch Process Started..
+Starter Templates - Importing Images for Blog name 'icon bluepoint' (1)
+---- Processing Images from Widgets -----
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "2"
+---- Processing WordPress Page - for Gutenberg ---- "2"
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Page - for Elementor ---- "408"
+---- Processing WordPress Page - for Elementor ---- "408"
+---- Processing WordPress Page - for Elementor ---- "17"
+---- Processing WordPress Page - for Elementor ---- "17"
+---- Processing WordPress Page - for Elementor ---- "16"
+---- Processing WordPress Page - for Elementor ---- "16"
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "2"
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Page - for Elementor ---- "408"
+---- Processing WordPress Page - for Elementor ---- "17"
+---- Processing WordPress Page - for Elementor ---- "16"
+---- Processing WordPress Page - for Elementor ---- "15"
+---- Processing WordPress Page - for Elementor ---- "14"
+---- Processing WordPress Page - for Elementor ---- "13"
+---- Processing WordPress Page - for Elementor ---- "12"
+---- Processing Images from Widgets -----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Page - for Gutenberg ---- "2"
+---- Processing WordPress Posts / Pages - for Elementor ----
+---- Processing WordPress Page - for Elementor ---- "408"
+---- Processing WordPress Page - for Elementor ---- "17"
+---- Processing WordPress Page - for Elementor ---- "16"
+---- Processing WordPress Page - for Elementor ---- "15"
+---- Processing WordPress Page - for Elementor ---- "14"
+---- Processing WordPress Page - for Elementor ---- "13"
+---- Processing WordPress Page - for Elementor ---- "12"
+---- Processing MISC ----
+Post ID: 23
+Post ID: 24
+Post ID: 25
+Post ID: 26
+Post ID: 27
+Post ID: 28
+Batch Process Complete!
